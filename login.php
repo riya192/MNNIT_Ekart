@@ -2,10 +2,10 @@
 <head>
 <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href='css/bootstrap.css'>
-  <script src="js/jquery.js"></script>
-  <script src="js/popper.js"></script>
-  <script src="js/bootstrap.js"></script>
+  <link rel="stylesheet" href='bootstrap.css'>
+  <script src="jquery.js"></script>
+  <script src="popper.js"></script>
+  <script src="bootstrap.js"></script>
 </head>
 <body>
 <p></p>
